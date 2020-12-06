@@ -1,0 +1,25 @@
+body{
+	
+	background-color: #ddd;
+	
+}
+
+.title{
+
+	margin-top: 50px;
+	text-align: center;
+}
+
+
+.form{
+
+	 margin-left: 470px;
+
+}
+
+
+.form .submit input[type="submit"]{
+
+	margin-top: 20px;
+	margin-left: 130px;
+}

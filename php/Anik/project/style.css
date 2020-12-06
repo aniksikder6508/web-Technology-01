@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+	background-image: url(images/student.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+
+
+.container{
+	color: white;
+
+}
+
+.form{
+    
+    margin-top: 10px;
+    margin-right: 500px;
+	margin-left: 500px
+    
+}
+
+
+.form table{
+	background-color: white;
+	border-radius: 4px;
+}
+
+
+.form table input{
+	border-radius: 4px;
+}
+
+
+
+.form table select{
+	border-radius: 10px;
+}

@@ -1,0 +1,24 @@
+body{
+	margin: 0;
+	background-color: #ddd;
+	
+}
+
+
+.login{
+    margin-top: 80px;
+    margin-left: 530px;
+	width:300px; 
+	border-style: solid;
+	border-width: 1px;
+	border-color: #ccc;
+	padding: 20px;
+	border-radius: 15px;
+    background-color: white;
+}
+
+.login .submit input{
+
+ margin-left: 100px;
+
+}
